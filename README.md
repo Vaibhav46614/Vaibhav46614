@@ -15,7 +15,10 @@ Email Me 👉 ✉️ **vaibhavsingh46614@gmail.com** For Collaboration/Project o
 ![](https://github-profile-trophy.vercel.app/?username=Vaibhav46614&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_Vaibhav) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Vaibhav Singh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaibhavsingh46614@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/2005_vaibhavsingh)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X\&logoColor=white)](https://x.com/Vaibhav37636021)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:vaibhavsingh46614@gmail.com)
+
 
 <!-- Snake Game Repo View -->
 
