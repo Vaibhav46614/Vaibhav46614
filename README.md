@@ -9,7 +9,6 @@ Email Me 👉 ✉️ **vaibhavsingh46614@gmail.com** For Collaboration/Project o
 - 🤔 **I’m looking for help with:** Building real-world projects and improving problem-solving skills
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
 - ⚡ **Fun fact:** If there's a bug in the code, I'll find it... eventually. 😅
 
 ## 🏆 GitHub Trophies
