@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Vaibhav
-**A passionate AIML Engineer || DevOps Engineer || Student @srmist
+**A passionate AIML Engineer || Aspiring DevOps And Full Stack Engineer || Student @srmist
 
 Email Me 👉 ✉️ **vaibhavsingh46614@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
@@ -8,7 +8,7 @@ Email Me 👉 ✉️ **vaibhavsingh46614@gmail.com** For Collaboration/Project o
 - 👯 **I’m looking to collaborate on:** Open-source projects related to Web Development, Machine               Learning, and Data Analytics
 - 🤔 **I’m looking for help with:** Building real-world projects and improving problem-solving skills
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
+- 📫 **How to reach me:** vaibhavsingh46614@gmail.com
 - ⚡ **Fun fact:** If there's a bug in the code, I'll find it... eventually. 😅
 
 ## 🏆 GitHub Trophies
